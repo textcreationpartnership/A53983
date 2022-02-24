@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the king at St. James's. October 13. 1695 by Edward Pelling ... Published by His Majesty's special command.</title>
+            <author>Pelling, Edward, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53983</idno>
+            <idno type="STC">Wing P1104</idno>
+            <idno type="STC">ESTC R33045</idno>
+            <idno type="EEBO-CITATION">12851909</idno>
+            <idno type="OCLC">ocm 12851909</idno>
+            <idno type="VID">94548</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94548)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the king at St. James's. October 13. 1695 by Edward Pelling ... Published by His Majesty's special command.</title>
+                  <author>Pelling, Edward, d. 1718.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCV [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Psalms CIX, 27 --  Sermons.</term>
+               <term>Providence and government of God --  Judaism.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94548:1"/>
+            <pb facs="tcp:94548:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the KING, AT St. <hi>JAMES</hi>'s.</p>
+            <p>OCTOBER 13. 1695.</p>
+            <p>By EDWARD PELLING, D. D. Rector of <hi>Petworth in Suſſex,</hi> and Chaplain in Ordinary to His MAJESTY.</p>
+            <p>Publiſhed by His Majeſty's Special Command.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Rogers,</hi> at the <hi>Sun</hi> over-againſt St. <hi>Dun<g ref="char:EOLhyphen"/>ſtan</hi>'s Church in <hi>Fleetſtreet.</hi> MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:94548:2"/>
+            <pb n="1" facs="tcp:94548:2"/>
+            <head>A SERMON Preach'd before the KING, At St. <hi>JAMES's.</hi>
+            </head>
+            <epigraph>
+               <bibl>PSALM CIX. 27.</bibl>
+               <q>That they may know that this is thy hand; that thou, Lord, haſt done it.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Pſalm, it's thought, was compos'd by <hi>David,</hi> when he was wrapt up in difficult, per<g ref="char:EOLhyphen"/>plexing Circumſtances, by the Faithleſsneſs and Cruelty of <hi>Saul</hi> and his Adherents. The greateſt part of the Pſalm is made up of Complaints, and ſuch Expreſſions of Reſentment as are commonly thought to be direct and formal Imprecations. And admitting they were ſuch, a Queſtion might ariſe, Whether they
+<pb n="2" facs="tcp:94548:3"/>
+were not innocent in thoſe days, when the <hi>Jews</hi> lived under a Law which ſome have thought per<g ref="char:EOLhyphen"/>mitted them to hate their Enemies, and conſe<g ref="char:EOLhyphen"/>quently allowed them to call upon God to appear againſt their Enemies; eſpecially ſuch Enemies as <hi>David</hi> now was ſo grievouſly entangled by; men of that State, and of thoſe Fortunes, that they were out of the reach of ordinary Juſtice. What could be done in ſuch a caſe, but to flee imme<g ref="char:EOLhyphen"/>diately to God, when there was no help from Man? But the candid Conſtruction of many Di<g ref="char:EOLhyphen"/>vines is, That <hi>David</hi> here did not Curſe, but Pro<g ref="char:EOLhyphen"/>pheſy: Nor is it unuſual in the Scripture, eſpeci<g ref="char:EOLhyphen"/>ally in the Book of <hi>Pſalms,</hi> for Predictions to run in the Form and Style of a Prayer: And if this be ſo, then <hi>David</hi> did not ſo much expreſs his De<g ref="char:EOLhyphen"/>ſires what <hi>ſhould</hi> befal his Enemies, as his Belief and Foreſight what he thought <hi>would</hi> befal them.</p>
+            <p>The next part of this <hi>Pſalm</hi> conſiſteth of hum<g ref="char:EOLhyphen"/>ble Prayer and Supplication; the Sum whereof is, That God would ſave and deliver him out of his Troubles in ſuch a <hi>manner,</hi> as that all reaſonable men might be convinced it was God's own ſpecial Work; and that his Preſervation depended not upon blind Chance, or upon <hi>David</hi>'s Conduct, Force, or Courage, how great ſoever his Fortitude was; but upon the Particular Goodneſs, and Sig<g ref="char:EOLhyphen"/>nal
+<pb n="3" facs="tcp:94548:3"/>
+Power of God himſelf; <hi>That they may know that this is thy hand; that thou Lord haſt done it.</hi>
+            </p>
+            <p>In diſcourſing upon this Subject, the Nature of it will lead me to theſe Three Things:</p>
+            <list>
+               <item>I. <hi>Firſt,</hi> To ſhew that there are ſome Acts of Providence ſo Signal and Remarkable, that in the judgment of all diſcerning men who believe a Providence, they ought after a peculiar manner to be aſcribed unto God as his own Handy-works, though done by the Co-operation of Subordinate Cauſes.</item>
+               <item>II. <hi>Secondly;</hi> To conſider what Acts of Provi<g ref="char:EOLhyphen"/>dence may be reaſonably look'd upon as ſuch; or by what Signs and Marks we may diſcern the ſpe<g ref="char:EOLhyphen"/>cial Hand of God in them.</item>
+               <item>III. And then in the <hi>Third</hi> place, To draw down this Conſideration ſo as to render it Pra<g ref="char:EOLhyphen"/>ctical.</item>
+            </list>
+            <p n="1">I. That there are ſome Acts of Providence ſo Signal and Remarkable, that in the judgment of all diſcerning men who believe a Providence, they ought after a peculiar manner to be aſcribed unto God, as the Works of his own Hands, though done by the Co-operation of Subordinate Cauſes. I do not now ſpeak of Miracles. For many Effects <hi>may</hi> be wrought, and in former Ages <hi>have</hi> been
+<pb n="4" facs="tcp:94548:4"/>
+wrought, which either as to the nature of them, or as to the manner of their production, ſurpaſs all the Power of Created Beings: And that <hi>ſuch</hi> Effects are to be aſcribed to God's own immedi<g ref="char:EOLhyphen"/>ate Hand, no queſtion can be made by thoſe who believe that ſuch Extraordinary Works have been done. But the ordinary way of God in his Go<g ref="char:EOLhyphen"/>vernment of the World, eſpecially in governing Human Actions and the Iſſues of them, is to uſe the Concurrence of Inferior Agents: And when not only mens Faculties of Acting are preſerved, but moreover their Natural Powers are ſo influ<g ref="char:EOLhyphen"/>enc'd and rais'd, their Deſigns are ſo order'd, their Actions are ſo directed, and Events are ſo brought about, that Wiſe and Great Things are done after a Stupendious and Amazing Manner; then are they to be accounted the Works of God's own Hand, whatever Inſtruments he made uſe of: In thoſe caſes the Glory of all muſt be given unto God; and we muſt ſay as the Devout <hi>Pſalmiſt</hi> did, <hi>This is the Lord's doing, and it is marvellous in our eyes.</hi>
+            </p>
+            <p>Indeed we live in an Age when ſome are ready to ſcoff at Providence. But if God were not wont ſignally to interpoſe, and remarkably to intereſt himſelf in Human Affairs, what reaſon could <hi>David</hi> have had for his Prayer, that God would adjuſt the whole Cauſe between him and <hi>Saul,</hi> ſo that his Deliverance from him might be acknow<g ref="char:EOLhyphen"/>ledg'd
+<pb n="5" facs="tcp:94548:4"/>
+by his very Enemies to come from God's own hand; and that God did it, whatever it was that <hi>David</hi> had done himſelf, or his Forces for him?</p>
+            <p>Or what reaſon could he have had for that Re<g ref="char:EOLhyphen"/>queſt, <hi>Pſal.</hi> 86. 17. <hi>Shew me a token for good, that they which hate me may ſee it, and be aſham'd, becauſe thou, Lord, haſt holpen me, and comforted me?</hi>
+            </p>
+            <p>Or, laſtly, What reaſon could there be for thoſe Expreſſions, <hi>Pſal.</hi> 58, 10, 11. <hi>The righteous ſhall rejoice when he ſeeth the vengeance, ſo that a man ſhall ſay, Verily there is a reward for the righteous; doubtleſs there is a God that judgeth in the earth?</hi>
+            </p>
+            <p>Of theſe and the like Paſſages in Scripture, no tolerable Conſtruction can be given, if it be not granted, That in ſome ſpecial caſes, however ſubordinate Agents do move, the Hand of God in guiding and directing their motions, is ſo plain and evident, that men of ordinary underſtandings may eaſily obſerve and take notice of it, if they will not ſhut their eyes; and that God's Provi<g ref="char:EOLhyphen"/>dence in making Examples of ſome, and in pro<g ref="char:EOLhyphen"/>tecting and delivering others, is ſometimes ſo par<g ref="char:EOLhyphen"/>ticularly remarkable and wonderful, that every one who will uſe his own Reaſon, cannot but diſcover the Hand of God, if he be perſuaded of the Being of a Deity, and that there are Opera<g ref="char:EOLhyphen"/>tions of Providence in the World.</p>
+            <p>
+               <pb n="6" facs="tcp:94548:5"/>
+But the truth is, 'tis a very hard matter to con<g ref="char:EOLhyphen"/>vince ſome people of this; becauſe they do not in theſe days ſee with open eyes ſuch <hi>ſenſible,</hi> ſuch <hi>miraculous</hi> Tokens of God's Hand, as he ſhewed in the days of old, in his Oeconomy and Diſpenſa<g ref="char:EOLhyphen"/>tions towards the <hi>Jews.</hi> The Strokes of <hi>Moſes</hi> his Rod in <hi>Egypt,</hi> the caſting up of the Waters into ſolid Banks, ſo that the People paſs'd through the Sea dry-ſhod; theſe and many more Miracles did very deeply affect the outward Senſes of men: And by reaſon there are not now ſuch ſenſible Operations, ſuch viſible Miracles, ſome who are very fond of their Natural Senſes, renounce the belief of a Supernatural Power; others, that cannot be ſo hardy as to deny God's Exiſtence, are ready to queſtion his Providence and Superinten<g ref="char:EOLhyphen"/>dency, eſpecially over Human Actions; and ma<g ref="char:EOLhyphen"/>ny of us are apt to ſet too mean and low a Rate upon the Mercies of God; nor are the generality of men ſo thankful for them as they ought to be; and all this becauſe they do not ſo <hi>ſenſibly</hi> perceive the Hand of God, as the <hi>Jews</hi> did.</p>
+            <p>Now theſe men do not rightly conſider, that there is a great difference between the <hi>Jewiſh</hi> State and ours, and conſequently that it is fit for the Di<g ref="char:EOLhyphen"/>vine Providence to be different as to its Quality and Manner of Acting. The <hi>Jews</hi> were a dull, ſtupid, carnal People; and God being to form
+<pb n="7" facs="tcp:94548:5"/>
+them into a Commonwealth of his own, and in<g ref="char:EOLhyphen"/>tending to found his peculiar Government and Dominion over them; to make them before-hand throughly ſenſible of his ſpecial Care of them and Goodneſs towards them, did moſt wiſely in doing ſuch Miracles before their eyes, as rendred the Belief of his Providence unqueſtionable; and by thoſe extraordinary Works, which were ſo evident and obvious to their outward ſenſes, they were ir<g ref="char:EOLhyphen"/>reſiſtibly led on to believe all God's Gracious De<g ref="char:EOLhyphen"/>clarations; to hope and truſt in him, and to de<g ref="char:EOLhyphen"/>pend upon his Providence continually. But now the caſe between God and us doth not ſtand after this manner, becauſe there has been already a ſuf<g ref="char:EOLhyphen"/>ficiency of Miracles to bear witneſs to his Provi<g ref="char:EOLhyphen"/>dence; ſo that there is no need of more for our Conviction; and therefore it would be unreaſona<g ref="char:EOLhyphen"/>ble for us to expect Miracles, properly and ſtrict<g ref="char:EOLhyphen"/>ly ſo called; that is, Works done, as they were of old, either without the Uſe, or beyond the Power of Natural Cauſes. There is not the ſame reaſon for God now to ſhew his hand by ſuch Acts of Omnipotence. There is not the ſame reaſon now for God to exerciſe his Almighty Power by Signs and Wonders of that high nature, to demon<g ref="char:EOLhyphen"/>ſtrate his Providence, becauſe Demonſtrations enough have been given of that already. Beſides, the old, Carnal Polity of the <hi>Jews</hi> is now changed
+<pb n="8" facs="tcp:94548:6"/>
+into a Government of a Spiritual Nature, admi<g ref="char:EOLhyphen"/>niſtred immediately, but after an inviſible man<g ref="char:EOLhyphen"/>ner, by Jeſus Chriſt: Whoſe Exaltation unto the Right Hand of his Father, and whoſe Power of judging the quick and dead is of it ſelf alone an abundant Proof of a Providence; becauſe it would be impoſſible for him to judge the world righteouſly in the next life, or to ſuccour and pro<g ref="char:EOLhyphen"/>tect his Church in this, without a Providence; that is, unleſs he did obſerve the Actions of men, and intereſt himſelf in the Affairs of the World. In ſhort, Miracles are not neceſſary in theſe days to atteſt the Divine Providence; and therefore we muſt not expect to ſee the Hand of God in ſuch Supernatural Operations.</p>
+            <p>However, God hath not ſhut himſelf out of the World: Though Miracles are ceas'd, yet his watchful Care of us doth never fail. Nor will it follow, that there are no ſpecial Acts of Provi<g ref="char:EOLhyphen"/>dence, becauſe we ſee not thoſe Tokens and Signs from Heaven, which the Children of <hi>Iſrael</hi> ſaw. It is one thing to Govern the World, and another thing to make the World ſenſible of it by Ocular Evidence. The Chriſtian Church is under a Spi<g ref="char:EOLhyphen"/>ritual Polity; and God doth uſe his Power now as efficaciouſly as ever, tho after a more ſecret and inſenſible manner. And hence it follows, that the Hand of God may be, and is in many Events, tho
+<pb n="9" facs="tcp:94548:6"/>
+they be not in a ſtrict ſenſe Miraculous. Tho they be brought about by the miniſtry of Second Cau<g ref="char:EOLhyphen"/>ſes, yet are they Effects of God's Special Provi<g ref="char:EOLhyphen"/>dence, becauſe his own Hand doth direct and go<g ref="char:EOLhyphen"/>vern their Cauſality after a Special, Stupendious, and Amazing Manner.</p>
+            <p n="2">II. Now that we may be always the more Thankful to God for ſuch Signal Inſtances of his Providence, it concerns us in the <hi>Second</hi> Place to conſider, What Acts of Providence may be rea<g ref="char:EOLhyphen"/>ſonably counted his own Handy-works, tho done by the Co-operation of Inferior Agents; or by what Signs and Marks we may diſcern the Special Hand of God in them.</p>
+            <p>And here we muſt be very careful how we in<g ref="char:EOLhyphen"/>terpret Events at every turn, leſt we aſcribe unto God ſome things which he hath no ſpecial hand in; and which the Paſſions, Prejudices, and Fan<g ref="char:EOLhyphen"/>cies of unwary people are wont to entitle that Wiſe and Holy Being unto, without ſufficient or juſt grounds. Some things he only <hi>Permits;</hi> as the Sins and Wickedneſſes men <hi>do;</hi> wherein God hath no more an hand, than in upholding the Faculties of Human Nature, as he upholds the Powers of all other Beings in the world. Some things he <hi>Ap<g ref="char:EOLhyphen"/>points</hi> and <hi>Orders;</hi> as the Evils men <hi>Suffer,</hi> and chiefly the Good they <hi>Enjoy.</hi> And that we may
+<pb n="10" facs="tcp:94548:7"/>
+rightly judge what Good that Tranſcendent Being hath a Signal Hand in, this general Rule, I conceive, is very neceſſary; namely, That we attentively obſerve in every Event, what Evidences there are of Wiſdom, Power, and Goodneſs. For theſe are God's own Perfections; and the more of them we ſee in any Event, the more of God we ſee in it; that is, when a Wiſe and Good Event is pow<g ref="char:EOLhyphen"/>erfully and effectually brought to paſs, we may then know, <hi>That it is God's hand,</hi> and that <hi>God hath done it.</hi>
+            </p>
+            <p>Now if we apply this general Rule to particu<g ref="char:EOLhyphen"/>lar Caſes, methinks all reaſonable and diſcerning men may plainly ſee the Marks of God's Hand, or the Evidences of his Wiſdom, Power, and Good<g ref="char:EOLhyphen"/>neſs, in theſe Four Caſes; not to mention any more. 1. When a <hi>Great</hi> and <hi>Important</hi> Good is done; eſpecially if it be done <hi>ſurprizingly.</hi> 2. When a Great Good is done at a very <hi>Critical Juncture.</hi> 3. When it is done by a <hi>Train</hi> and <hi>Se<g ref="char:EOLhyphen"/>ries</hi> of Unexpected Accidents. 4. When <hi>Evil</hi> De<g ref="char:EOLhyphen"/>ſigns are ſo powerfully <hi>over-ruled,</hi> as to be made the <hi>Inſtruments</hi> and <hi>Means</hi> of Good.</p>
+            <p n="1">1. Firſt, We may reaſonably look upon it as God's Hand, when a <hi>Great</hi> and <hi>Important</hi> Good is done; eſpecially when it is done after a ſurprizing manner. By a great and important Good, I mean that which is highly valuable in it ſelf; as the Pre<g ref="char:EOLhyphen"/>ſervation
+<pb n="11" facs="tcp:94548:7"/>
+of the True Religion, and of mens Lives and Fortunes; and that too which is of great Importance to a whole Community, a Church or State. Such a Good is a moſt worthy Object of God's ſpecial Providence; moſt be<g ref="char:EOLhyphen"/>coming God to do: For if it becomes him to provide for the Private Good of Particular Per<g ref="char:EOLhyphen"/>ſons, much rather doth it become him to provide for the Publick Good of a whole People profeſ<g ref="char:EOLhyphen"/>ſing his Religion. This is the moſt important Good; and God's way is to adapt his Providence in proportion to the Worth and Value of the Ob<g ref="char:EOLhyphen"/>ject which his Care is converſant about; ſo that as things differ in their Rate or Eſtimation, ſo is God's Care lower or higher in its degrees, leſs or more ſignal. This appears from our Saviour's Words to his Diſciples about their relying upon God for their Food and Raiment: <hi>Is not life more than meat, and the body than raiment?</hi> And, <hi>Are not ye much better than the fowls of the air?</hi> And again, <hi>Are not ye of more value than many ſparrows?</hi> Where the ſtreſs of our Lord's own Argument lyeth in this, That the Meaſures of the Divine Providence are ſuitable to the Nature and Value of Things. To the ordinary Parts of the Creation it is extend<g ref="char:EOLhyphen"/>ed in an ordinary meaſure; 'tis particular over men, and more particular over thoſe men who work the Works of God, becauſe they are better,
+<pb n="12" facs="tcp:94548:8"/>
+more valuable, more uſeful than others. And hence it follows, that if the ſpecial Providence of God be concern'd for this and that Man in parti<g ref="char:EOLhyphen"/>cular, it muſt be concern'd in a very high and eminent degree for a whole Religious Communi<g ref="char:EOLhyphen"/>ty, becauſe the reaſons are ſtill the greater and ſtronger; a whole Nation being of far more va<g ref="char:EOLhyphen"/>lue than a few Individuals. So that when a Great Good is done to a Kingdom; when the True Faith is preſerved in a Nation; and when the For<g ref="char:EOLhyphen"/>tunes and Lives of a People are Providentially ſe<g ref="char:EOLhyphen"/>cured (all which are things of the higheſt value) it is reaſonable to conclude, That there was the Hand of God; eſpecially if that Great Good was wrought by unforeſeen and unexpected means.</p>
+            <p>This was the Caſe of all the <hi>Jews</hi> in the Reign of <hi>Ahaſuerus,</hi> when that Haughty and Bloody Miniſter of State, <hi>Haman,</hi> upon adviſing with his Friends, was reſolved to get <hi>Mordecai</hi> hanged the very next day, as he had before ſent out Orders under the King's Seal, for the utter Deſtruction of all the <hi>Jews</hi> throughout One hundred twenty ſeven Provinces, upon the Thirteenth Day of the Month <hi>Adar.</hi> Here was a Total Extirpation of God's People intended, and with them the Extir<g ref="char:EOLhyphen"/>pation of God's Faith and Worſhip that had been eſtabliſh'd among them. And yet on a ſudden
+<pb n="13" facs="tcp:94548:8"/>
+the King's Mind was changed, and the Execution of the whole matter was ſtrangely prevented, by the wiſe Interceſſion of Queen <hi>Eſther</hi> at a Banquet. The Interceſſion was hers; but the Hand of God was over her, and over the King's heart, and over the whole affair: And to ſhew his hand, what an unexpected, wonderful courſe did God take to preſerve his People? <hi>Abaſuerus</hi> could not ſleep the night before poor <hi>Mordecai</hi> was deſtin'd by <hi>Haman</hi> to be ſacrific'd, tho <hi>Ahaſuerus</hi> knew nothing then of <hi>Haman</hi>'s Intentions. God held the King's eyes waking: That occaſion'd him to call for the Pub<g ref="char:EOLhyphen"/>lick Records: In them he diſcover'd that <hi>Mordecai</hi> had done him very eminent Service; and finding that he had not been rewarded, the King order'd him, inſtead of being hang'd, to be exalted with Honour; and ſo <hi>Haman,</hi> the great Contriver of Miſchief, fell. This was an Accident which fleſh and blood could not have dream'd of; and that which ſoon introduc'd a change of the whole Scene: For Queen <hi>Eſther</hi> was heard; her Requeſt for her People was granted; the Letters for their Deſtruction were reverſed; <hi>Mordecai</hi> was advan<g ref="char:EOLhyphen"/>ced; <hi>Haman</hi> himſelf was hanged; the <hi>Jews</hi> every where were allowed to ſlay their Enemies; and ſo their Deliverance was wrought; and all this by unexpected means; by the Diverſions of a Ban<g ref="char:EOLhyphen"/>quet, and by the loſs of a few hours Sleep. A Great
+<pb n="14" facs="tcp:94548:9"/>
+and Important Good indeed, and that which was a plain Manifeſtation of the great Wiſdom, Goodneſs, and Power of God, working with his Secret Hand after that wonderful manner.</p>
+            <p n="2">2. Secondly, We may reaſonably look upon it as a Mark of God's Hand, when a Great Good is done at a very <hi>Critical Jnncture.</hi> Calamities are not always foreſeen; and when they are diſcovered it is not always in Human Power to avoid them; and then it is a very Critical Seaſon, when Dan<g ref="char:EOLhyphen"/>gers are not only apparent, but imminent and ex<g ref="char:EOLhyphen"/>treme; when Deſtruction is juſt coming on; when Preparations are at the height, and the Blow is ready to be given Such a diſconſolate, ama<g ref="char:EOLhyphen"/>zing condition <hi>Jews</hi> and Chriſtians have been often in; ſo that to human appearance no door of hope hath been open, no way left for Innocence to eſcape. Now when in ſuch a caſe a ſurprizing Deliverance happens, and ſuch extraordinary Events fall out, as work that Deliverance beyond mens expectations, they carry with them Tokens of an Over ruling Hand, and are arguments of Divine Wiſdom and Goodneſs, arm'd with un<g ref="char:EOLhyphen"/>controulable Power; eſpecially when the Evils that were ready to come to paſs, were not ap<g ref="char:EOLhyphen"/>prehended or thought of; as commonly it hath happened. For ſo credulous are people of ſimple minds, and ſo ſhort-ſighted are thoſe whoſe buſi<g ref="char:EOLhyphen"/>neſs
+<pb n="15" facs="tcp:94548:9"/>
+doth not lye in Intriguing, (and the world is for the moſt part made up of ſuch) that it is uſual for people to be lull'd aſleep, and to reſt confident of their Peace and Safety, little dream<g ref="char:EOLhyphen"/>ing of Snares and Death by their Bed ſides. They who are dextrous at miſchief never care that the Dangers they are contriving ſhould appear with a grim and open face, to awaken men out of their ſecurity till it be out of their power to keep the Enemy off, and to eſcape from him. In ſuch Ex<g ref="char:EOLhyphen"/>tremities it is the work of God to lay to his hand; and when an happy Turn of Affairs doth enſue, it is to all thinking men who own a Providence a plain ſign of an All-ſeeing and Almighty Super<g ref="char:EOLhyphen"/>intendent, who watcheth over people day and night, and without whoſe Wiſdom, Goodneſs, and Power, a Reſcue would be impoſſible for them, when evil deſigns are once ripe and the Pit perfectly prepar'd to receive them. This is a glorious Evidence of God's own hand; becauſe none but that Omniſcient Being can diſcern the whole Series of Contrivances from the beginning to the end, and none but that Benign and Pow<g ref="char:EOLhyphen"/>erful Being can daſh them into nothing, and ſave his poor Creatures; as he did the <hi>Jews,</hi> when the Sentence of their Deſtruction was now ſeald; and as he did <hi>Mordecai,</hi> when the Gallows was juſt going to be fix'd; and as he did <hi>Iſaac,</hi> when the
+<pb n="16" facs="tcp:94548:10"/>
+Fire and the Wood was ready, the Knife drawn, and <hi>Abraham</hi>'s hand ſtretched out; and (to come home) as he once ſaved King and Parliament here, when the Match was juſt ready for the Powder. It is the peculiar Perfection and Glory of God, that he is privy to all the intentions of the heart; that he ſpieth out all the firſt forma<g ref="char:EOLhyphen"/>tions of miſchief; that he obſerves all the moti<g ref="char:EOLhyphen"/>ons of cruel and blood-thirſty men; that his Eye goes along with the whole track of their deſigns; that he is able, when he pleaſeth, to prevent the Calamitous Conſequents of them; and that he knoweth the time when it is fitteſt for him to in<g ref="char:EOLhyphen"/>terpoſe, and to gain himſelf Honour, as he did upon <hi>Pharaoh</hi> when he and his Hoſt were in the midſt of the Sea. And when a Deliverance comes at ſuch a Critical Juncture, in which Death and Ruin follow men cloſe at heels, ſo that of ne<g ref="char:EOLhyphen"/>ceſſity there muſt be either Salvation to day, ot Deſtruction to morrow, it is ſome what beyond the hardneſs even of an <hi>Egyptian,</hi> not to be ſenſi<g ref="char:EOLhyphen"/>ble that there the Hand of God fighteth.</p>
+            <p n="3">3. It is a ſign of God's Hand, when a Great Good is done by a <hi>Train</hi> and <hi>Series</hi> of unfortunate Accidents. For this we need no other Inſtance but that of <hi>Joſeph.</hi> What a long Series of Providen<g ref="char:EOLhyphen"/>ces did he go through, which no creatures could any more foreſee, than they could foreſee the
+<pb n="17" facs="tcp:94548:10"/>
+End, which God had an eye upon throughout all. God had promiſed <hi>Abraham</hi>'s Poſterity the Land of <hi>Canaan,</hi> and thought fit to tranſplant them firſt into the Land of <hi>Egypt,</hi> there to grow and increaſe into a Numerous Nation, ſo that they might come to the Poſſeſſion of the Promiſed Land all at once, in a great Body, and after a plain, remarkable manner. To make way for their Reception in <hi>Egypt, Joſeph</hi> was to be ſent thither before-hand to get all the Power of the Kingdom under <hi>Pharaoh.</hi> In order to this, firſt he dreamed two Dreams, importing that his Father and his Brethren ſhould bow down themſelves to him. To remove him from home he was ſent away into the Field to ſee his Brethren. They con<g ref="char:EOLhyphen"/>ſulted there how they might uſe that opportunity to rid themſelves of the Dreamer; and would have kill'd him, had not <hi>Reuben</hi> prevented it. He adviſed to caſt him into a Pit, and there to leave him to the mercy of ſome wild Beaſt; but the <hi>Iſhmaelites</hi> coming accidentally that way, they ſold him to thoſe Merchants; and they again made Money of him in <hi>Egypt.</hi> There one of <hi>Pharaoh</hi>'s Officers bought him; his Miſtreſs fell in Love with him; and being diſappointed in her Amours, became the means of his being caſt into Priſon. Thence at laſt he was advanced by interpreting ſome Dreams, firſt the Butler's, and then the
+<pb n="18" facs="tcp:94548:11"/>
+King's. <hi>Joſeph being now</hi> in Power, a Famine is ſent into the Land of <hi>Canaan.</hi> That forced his Kindred to repair into <hi>Egypt,</hi> and ſo his Brethren fell into <hi>Joſeph</hi>'s hands, as he had fallen into their hands before. By degrees they became known to one another; and in the end their poor, aged Father, and all his Family were ſent for, and cheriſh'd; and ſo they multiplied exceedingly, till the time of the Promiſe drew near. What a Train of ſtrange Events was in all this matter? <hi>Joſeph</hi> obſer<g ref="char:EOLhyphen"/>ved how the Hand of God was in it all; and had he not told his Brethren ſo, they muſt of them<g ref="char:EOLhyphen"/>ſelves have acknowledg'd that ſuch a long, con<g ref="char:EOLhyphen"/>tinued ſucceſſion of odd <hi>Events,</hi> all of them ter<g ref="char:EOLhyphen"/>minating at laſt ſo wonderfully in ſo great a Good, could never have been ſo order'd, go<g ref="char:EOLhyphen"/>vern'd, directed, and ended, but by the ſpecial Providence of a Wiſe, Gracious, and Over-ruling Being.</p>
+            <p>But the <hi>Jews</hi> have not been the only People for whom the Hand of God hath appear'd. Other Nations, and eſpecially We of this Kingdom, have with Admiration ſeen it act for us by a long Concatenation of Events, which no Human Wiſdom could forecaſt or think of. How many Viriſſitudes and Changes have we ſeen? What Difficulties and Perplexities have we been ſur<g ref="char:EOLhyphen"/>rounded with? What Labyrinths and Pits have
+<pb n="19" facs="tcp:94548:11"/>
+we been in? How dark and myſterious have ma<g ref="char:EOLhyphen"/>ny proceedings ſeem'd? How diſmally have they look'd and operated? How deeply have we been affected with the ſenſe of them? What Groans have we ſent up to the God of Comfort under our burdens; not able to gueſs where or how they would end; and yet what ſurprizing Joys and Triumphs have they ended in? Which is enough to ſatisfy all conſidering men, that throughout a long courſe (a ſeemingly incoherent courſe) of affairs, an Inviſible and Wiſe Hand diſpos'd and order'd all; and brought every thing to ſuch a Proſperous Iſſue, as cannot be juſtly aſcribed to any thing but a Divine Power, Wiſdom, and Goodneſs.</p>
+            <p n="4">4. Laſtly, It may reaſonably be thought to be the Hand of God, when <hi>Evil</hi> Deſigns are ſo ſtrangely <hi>over-rul'd,</hi> as to be made the <hi>Inſtruments</hi> and <hi>Means</hi> of Good. In this there is a double de<g ref="char:EOLhyphen"/>monſtration of God's Hand, and of his Divine and Glorious Perfections; when wicked Contri<g ref="char:EOLhyphen"/>vances are not only fruſtrated, baffled, and defeat<g ref="char:EOLhyphen"/>ed, but are moreover diverted and turned to ends quite diſtant from, nay, contrary unto the purpo<g ref="char:EOLhyphen"/>ſes of evil men. This is plainly a ſtroke from above; when their Deſigns recoil upon them<g ref="char:EOLhyphen"/>ſelves, ſo that what was formed and laid for the ruin of others, at laſt terminates in their own.
+<pb n="20" facs="tcp:94548:12"/>
+It was a glorious ſign of God's Special Providence, which <hi>David</hi> obſerved in the Fall of his and the Church's Enemies; That as <hi>they had made a pit, and digged it,</hi> ſo <hi>they fell into the ditch they had made;</hi> that <hi>their miſchief returned upon their own heads, and their violent dealings came down upon their own pates;</hi> that <hi>in the net which they had hid, their own feet were taken;</hi> and that <hi>they were ſnared in the works of their own hands.</hi> An Obſervation which we our ſelves have to our great ſatisfaction ſeen lately verified here in this Kingdom; our bittereſt Enemies have ruined themſelves by their own Devices; and their Counſels have been ſo wonderfully and pro<g ref="char:EOLhyphen"/>videntially over-rul'd, and even when they thought themſelves ſure of Succeſs, that what was Poli<g ref="char:EOLhyphen"/>tickly laid for the deſtruction of Truth, Peace, and good Government, in the Event prov'd an effectual means to ſix all upon the firmer Foun<g ref="char:EOLhyphen"/>dation; the Contrivers themſelves going off with viſible Marks of Divine Vengeance upon them.</p>
+            <p n="3">III. And now to come to that which I propos'd in the <hi>Third</hi> Place, What better Improvement can we make of this whole Subject, than ſeriouſly to reflect upon that Signal Hand which from time to time God hath ſhewed for this Church and Kingdom; and impartially to conſider what Expreſſions of Thankfulneſs are called for at <hi>Our</hi>
+               <pb n="21" facs="tcp:94548:12"/>
+hands, who have been ſo long and ſo deeply in<g ref="char:EOLhyphen"/>debted to the Hand of God? Particularly, how thankful to him ſhould we be, for ſaving us hi<g ref="char:EOLhyphen"/>therto from the Hand and Power of a Foreign Prince, of whoſe Cruelties many of his own Na<g ref="char:EOLhyphen"/>tural Subjects are a diſmal Cloud of Witneſſes. Scepticks may be unwilling to ſee and own it; but all indifferent perſons who have a ſenſe of God, muſt look upon it as God's Hand, upon all thoſe accounts I have now ſpoken of. For,</p>
+            <p n="1">1. Nothing but a Special Providence, directing and bleſſing the Means of our Safety, could have preſerv'd to us all that is ſo dear and precious in our ſight: Thoſe Fortunes whereby we live; that Liberty which enhanceth the value of Life it ſelf; thoſe Laws which are the peculiar Glory of this Nation, and that Religion wherein is wrapt up the Eternal Intereſt and Happineſs of our Souls. How light ſoever ſome may make of this Conſi<g ref="char:EOLhyphen"/>deration, (for no other reaſon, but becauſe we have not ſeverely ſmarted under the Evils that were coming upon us) yet our Dangers were apparent; Dangers to which all our deareſt and moſt valuable Concerns were expos'd; and the Signal Preſervation of them ought on that ac<g ref="char:EOLhyphen"/>count to be look'd on as an argument of God's Hand, to which ſo Great and Important a Good is to be aſcribed.</p>
+            <p n="2">
+               <pb n="22" facs="tcp:94548:13"/>
+2. To raiſe the ſenſe of it yet, we ſhould con<g ref="char:EOLhyphen"/>ſider at what a Critical Juncture this Good was done. At that nice ſeaſon, when an unprovided, defenceleſs People were to wreſtle with a moſt Potent Enemy; when his Hopes were at the height; when the Victory ſeem'd to him unque<g ref="char:EOLhyphen"/>ſtionable; and we look'd like men almoſt capti<g ref="char:EOLhyphen"/>vated at Home in our own Native Countrey. In this our diſtreſs God that laughed all the Hea<g ref="char:EOLhyphen"/>then to ſcorn, did with the Turn of his Hand break and diſſipate the Cloud, which hung low<g ref="char:EOLhyphen"/>ring over our heads; and that ſo ſuddenly and beyond expectation, that We, and our Enemies too, <hi>were like thoſe that dream,</hi> and could ſcarce be<g ref="char:EOLhyphen"/>lieve our own ſenſes.</p>
+            <p n="3">3. Thirdly, if we obſerve how one thing fol<g ref="char:EOLhyphen"/>lowed another, we may well admire the Special Providence of God through a continued Train and Courſe of unforeſeen Events; whereof, tho ſome ſeemed very threatning for the time, yet the moſt uncomfortable accidents have now turn'd to our great advantage. How long ſtill God will pleaſe to vouchſafe his hand over us, is a Secret hid in the Counſel of his own Will. Succeſs for the future depends much upon the uſe we make of his Providence to this day. If we will not be ſenſible of his Hand, nor be thankful for it, nor be led by it to Repentance, we know not how ſoon thoſe
+<pb n="23" facs="tcp:94548:13"/>
+Judgments may be executed againſt us, which were often denounced againſt the <hi>Jews</hi> for their Hardneſs and Ingratitude in the like caſes. How<g ref="char:EOLhyphen"/>ever we may be wanting to our ſelves, the hand of God hath not been wanting. Since the time that the Day of our Salvation began to drawn, tho there have been ſo many Difficulties before us, yet by the good Hand of God the main Inte<g ref="char:EOLhyphen"/>reſt of the Kingdom hath ſo proſperouſly gone on, that every day we have the ſtronger reaſons to hope, That God will not only ſave us from the Power of that Oppreſſor who hath been ſuch a Scourge to <hi>Chriſtendom,</hi> but will moreover ſettle us upon ſuch ſolid Foundations, that neither the Po<g ref="char:EOLhyphen"/>licy of <hi>Rome</hi> nor the Gates of Hell ſhall prevail againſt us. The preſent Complication of Affairs is ſuch, that the Hand of God is not hard to be ſeen by unprejudic'd people, who believe the Being of a Deity, and the Operations of a Provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p n="4">4. And what can be a fairer evidence of it to ſtrengthen our belief ſtill, than this Fourth Con<g ref="char:EOLhyphen"/>ſideration, That the Devices of our Enemies are not only rendred ineffectual, but are after a moſt wonderful manner turned upon themſelves? Thoſe Arts which had been ſo long uſed againſt our Eſtabliſh'd Religion, did ſo return upon the Authors of them, that perhaps the Church of
+<pb n="24" facs="tcp:94548:14"/>
+               <hi>Rome</hi> never ſuffer'd greater Diſgrace and Prejudice than ſhe did in that little time ſhe ſtay'd here: And when a Strong Wind carried her Politicians away to their Homes abroad, they went off with ſuch Infamy, as if God intended to ſtigmatize and brand them, that they might be diſdain'd and hooted at by all the world.</p>
+            <p>That Good, Over-ruling Hand which God was pleaſed to ſtretch out for us in and ſince that Re<g ref="char:EOLhyphen"/>markable Juncture, he hath not yet drawn back into his Boſom. Still it may be ſeen in the Happy Succeſſes which God hath granted unto, and in the Signal Preſervations wherewith he hath bleſs'd our moſt Heroick, Publick-Spirited, and Indefati<g ref="char:EOLhyphen"/>gably Zealous Prince, whom he thought fit to make uſe of as the moſt proper Inſtrument in his Hand, to Reſcue Three Kingdoms from Vaſſalage and Idolatry. For all which, <hi>Not unto us, O Lord, not unto us, but unto thy name let all Praiſe and Thanks be given, through Jeſus Chriſt our Lord.</hi> To whom, with the Father, and the Holy Ghoſt, be all Ho<g ref="char:EOLhyphen"/>nour and Glory, world without end.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>A Practical Diſcourſe concerning Holineſs. Wherein is ſhewed the Nature, the Poſſibility, the Degrees, and Neceſſity of Holineſs; together with the Means of Acquiring and Perfecting it. By <hi>Edward Pelling,</hi> D. D.</p>
+            <p>Printed for <hi>W. Rogers.</hi>
+            </p>
+            <pb facs="tcp:94548:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
